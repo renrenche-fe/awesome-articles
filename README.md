@@ -12,3 +12,9 @@
 
 ## more
 每周的分享结束之后，将文章列表记录在 Issue 里，后续的探讨也可以在 Issue 下进行回复，前端周刊之类的我们也能做啦！
+
+## 历史分享
+
+- 2017/08/05
+ - [modules-in-nodejs](http://47.93.21.106/sharing/modules-in-nodejs) @孙恒哲
+ 结合 nodejs 的源码理解 nodejs 中模块的加载、缓存等机制
