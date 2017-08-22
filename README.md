@@ -15,6 +15,10 @@
 
 ## 历史分享
 
+### 2017/08/19
+- [ES7 Decorator](https://renrenche-fe.github.io/2017/08/20/es7-decorator/)
+  介绍 ES7 中的 decorator
+  
 ### 2017/08/05
 - [modules-in-nodejs](http://47.93.21.106/sharing/modules-in-nodejs)
   结合 nodejs 的源码理解 nodejs 中模块的加载、缓存等机制
