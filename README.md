@@ -13,6 +13,24 @@
 ## more
 每周的分享结束之后，将文章列表记录在 Issue 里，后续的探讨也可以在 Issue 下进行回复，前端周刊之类的我们也能做啦！
 
+## 优质文章参考
+### 周刊
+- [前端周刊](https://zhuanlan.zhihu.com/feweekly)
+- [前端之巅](https://zhuanlan.zhihu.com/qianduanzhidian)
+
+### 社区
+- [freecodecamp](https://medium.freecodecamp.org/)
+- [medium](https://medium.com/)
+
+### 团队博客
+- [360奇舞团](https://75team.com/post/list)
+- [腾讯AlloyTeam](http://www.alloyteam.com/)
+- [腾讯ISUX](https://isux.tencent.com/)
+- [淘宝UED](http://ued.taobao.org/blog/)
+
+### 推荐插件
+- [掘金浏览器插件](https://juejin.im/extension)
+
 ## 历史分享
 
 ### 2017/08/19
